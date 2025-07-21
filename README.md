@@ -4,7 +4,7 @@ Care is an iOS app designed to help users easily manage their personal healthcar
 
 ---
 
-## 📱 Features
+## Features
 
 - **Medical Record Scanner**  
   Use your iPhone camera to scan and save important medical documents.
@@ -17,13 +17,13 @@ Care is an iOS app designed to help users easily manage their personal healthcar
 
 ---
 
-## 🔐 Privacy First
+## Privacy First
 
 Care stores all data **locally on your device** — no cloud, no accounts, no external servers. Your health data stays with you.
 
 ---
 
-## 🛠️ Built With
+## Built With
 
 - Swift  
 - SwiftUI  
@@ -31,7 +31,7 @@ Care stores all data **locally on your device** — no cloud, no accounts, no ex
 
 ---
 
-## 🚧 Project Status
+## Project Status
 
 This is a work-in-progress project and open to feedback, improvements, and ideas. Feel free to fork it or open an issue!
 
